@@ -16,8 +16,29 @@ html {
 .links a {
   font-size: 18px;
   color: white;
+  display: inline;
 }
 
 h2 {
   font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+#divider {
+  color: white;
+  background-image: url('../the-flatiron-building.png');
+  background-size: cover;
+}
+
+nav {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+nav a {
+  color: white;
 }
